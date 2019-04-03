@@ -18,5 +18,7 @@ def using_pop_with_args(chars_in_game_of_thrones)
   chars_arya_killed = chars_in_game_of_thrones.pop(3)
 end
 
-def using_shift 
+def using_shift
+my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  
   
