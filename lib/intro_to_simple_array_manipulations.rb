@@ -1,4 +1,4 @@
-def using_push(countries_in_western_africa, )
+def using_push(countries_in_western_africa,"Next Country" )
   countries_in_western_africa.push("Niger")
 end
 
