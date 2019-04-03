@@ -20,4 +20,8 @@ def pop_with_args(chars_in_game_of_thrones)
 end
   
 def using_shift(my_favorite_cities)
-  my_favorite_cities
+  my_favorite_cities.shift 
+end
+
+def shift_with_args
+  
