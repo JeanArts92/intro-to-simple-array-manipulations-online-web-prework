@@ -16,6 +16,6 @@ def using_pop_with_args(chars_in_game_of_thrones)
 end
 
 def pop_with_args(chars_in_game_of_thrones)
-  chars_in_game_of_thrones(2)
+  chars_in_game_of_thrones.pop(2)
 end
   
