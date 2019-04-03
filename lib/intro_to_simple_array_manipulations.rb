@@ -28,6 +28,6 @@ def shift_with_args(ice_cream_brands)
 end
 
 def using_concat(my_favorite_things
-  my_favorite_things + more_faves
+  my_favorite_things << more_faves
 end
   
