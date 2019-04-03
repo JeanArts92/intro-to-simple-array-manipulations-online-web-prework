@@ -40,4 +40,7 @@ def using_uniq(captain_planet_and_the_planeteers)
 end
 
 def unsing_flatten(flat_array)
-  flat_array.
+  flat_array.flatten 
+end
+
+
