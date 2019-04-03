@@ -2,8 +2,7 @@ def using_push(countries_in_western_africa,"Next Country" )
   countries_in_western_africa.push("Niger")
 end
 
-def using_unshift(neighborhoods_in_northwest_brooklyn, new_neighborhood)
-  neighborhoods_in_northwest_brooklyn = ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
+def using_unshift(neighborhoods_in_northwest_brooklyn, "new neighborhood")
   neighborhoods_in_northwest_brooklyn.unshift("Brooklyn Heights")
 end
 
