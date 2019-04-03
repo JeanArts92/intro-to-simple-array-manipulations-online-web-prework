@@ -39,7 +39,7 @@ def using_uniq(captain_planet_and_the_planeteers)
   captain_planet_and_the_planeteers.uniq 
 end
 
-def unsing_flatten(flat_array)
+def using_flatten(flat_array)
   flat_array.flatten 
 end
 
@@ -47,4 +47,4 @@ def using_delete(instructors, no_offense_steven)
   instructors.delete("Steven")
 end
 
-
+def using_delete_at()
